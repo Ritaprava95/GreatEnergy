@@ -1,0 +1,2 @@
+# GreatEnergy
+The purpose is to predict the energy consumption of building given various features. First challenge is that the features are not in a sigle dataset. So our job is to join those datasets on their common columns. Along with that we have to handle missing data and categorical data. Also we have to properly scale the data. The dataset is quite big to be handled by kaggle kernel so we need to make mini batches for training. 
